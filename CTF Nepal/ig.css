@@ -1,0 +1,25 @@
+body{
+    background-image: url(box.webp);
+}
+.btn {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+}
+h1{
+    text-align: center;
+    color: black;
+
+}
+.hey{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+.d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
